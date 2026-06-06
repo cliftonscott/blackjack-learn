@@ -9,22 +9,23 @@ no real-money gambling.
 
 ### iOS app
 
-<p align="center">
-  <img src="docs/screenshots/ios/learn.png" alt="Learn tab with guided lessons" width="220" />
-  <img src="docs/screenshots/ios/practice.png" alt="Practice tab with a dealt hand and move buttons" width="220" />
-  <img src="docs/screenshots/ios/strategy.png" alt="Strategy tab with rule toggles and chart key" width="220" />
-  <img src="docs/screenshots/ios/rules.png" alt="Rules tab with reference cards" width="220" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/screenshots/ios/learn.png" alt="Learn tab with guided lessons" width="185" /></td>
+    <td align="center"><img src="docs/screenshots/ios/practice.png" alt="Practice tab with a dealt hand and move buttons" width="185" /></td>
+    <td align="center"><img src="docs/screenshots/ios/strategy.png" alt="Strategy tab with rule toggles and chart key" width="185" /></td>
+    <td align="center"><img src="docs/screenshots/ios/rules.png" alt="Rules tab with reference cards" width="185" /></td>
+  </tr>
+</table>
 
 ### Web app
 
-<p align="center">
-  <img src="docs/screenshots/web/practice.png" alt="Web practice table with move feedback" width="620" />
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/web/chart.png" alt="Web strategy chart for hard totals" width="620" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/screenshots/web/practice.png" alt="Web practice table with move feedback" width="470" /></td>
+    <td align="center"><img src="docs/screenshots/web/chart.png" alt="Web strategy chart for hard totals" width="470" /></td>
+  </tr>
+</table>
 
 ## Start
 
