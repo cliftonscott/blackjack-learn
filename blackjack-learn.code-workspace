@@ -1,0 +1,64 @@
+{
+  "folders": [
+    {
+      "name": "Blackjack Learn",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.swift": "swift",
+      "*.html": "html",
+      "*.css": "css",
+      "*.js": "javascript",
+      "*.md": "markdown"
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.exclude": {
+      "**/.DS_Store": true,
+      "**/DeviceDerivedData": true,
+      "**/DerivedData": true,
+      "**/build": true,
+      "**/node_modules": true
+    },
+    "search.exclude": {
+      "**/DeviceDerivedData": true,
+      "**/DerivedData": true,
+      "**/build": true,
+      "**/node_modules": true
+    },
+    "files.watcherExclude": {
+      "**/DeviceDerivedData/**": true,
+      "**/DerivedData/**": true,
+      "**/build/**": true,
+      "**/node_modules/**": true
+    },
+    "terminal.integrated.cwd": "${workspaceFolder}"
+  },
+  "extensions": {
+    "recommendations": [
+      "swiftlang.swift-vscode",
+      "esbenp.prettier-vscode",
+      "openai.chatgpt"
+    ]
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build Blackjack Learn Simulator",
+        "type": "shell",
+        "command": "xcodebuild -project BlackjackLearn.xcodeproj -scheme BlackjackLearn -configuration Debug -destination 'platform=iOS Simulator,name=iPhone 17,OS=latest' build",
+        "group": "build",
+        "problemMatcher": []
+      },
+      {
+        "label": "Open Blackjack Xcode Project",
+        "type": "shell",
+        "command": "open BlackjackLearn.xcodeproj",
+        "problemMatcher": []
+      }
+    ]
+  }
+}
