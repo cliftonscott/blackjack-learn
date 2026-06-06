@@ -1,8 +1,9 @@
 # Blackjack Learn
 
-A local-only Blackjack learning web app for rules, valid moves, and beginner
-strategy practice. It is a personal study tool: no backend, no deploy, no auth,
-no analytics, and no real-money gambling.
+A local-only Blackjack learning app for rules, valid moves, and beginner
+strategy practice. It includes a native iOS app and a browser-based prototype.
+It is a personal study tool: no backend, no deploy, no auth, no analytics, and
+no real-money gambling.
 
 ## Start
 
