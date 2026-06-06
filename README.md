@@ -67,7 +67,8 @@ xcodebuild -project BlackjackLearn.xcodeproj \
 Open directly:
 
 ```bash
-open blackjack-learn/index.html
+cd blackjack-learn
+open index.html
 ```
 
 Or run a local server:
@@ -179,7 +180,6 @@ Then run the app in Xcode or Simulator:
 Local web app smoke:
 
 ```bash
-ls blackjack-learn
 cd blackjack-learn
 python3 -m http.server 5174
 ```
