@@ -5,6 +5,27 @@ strategy practice. It includes a native iOS app and a browser-based prototype.
 It is a personal study tool: no backend, no deploy, no auth, no analytics, and
 no real-money gambling.
 
+## Screenshots
+
+### iOS app
+
+<p align="center">
+  <img src="docs/screenshots/ios/learn.png" alt="Learn tab with guided lessons" width="220" />
+  <img src="docs/screenshots/ios/practice.png" alt="Practice tab with a dealt hand and move buttons" width="220" />
+  <img src="docs/screenshots/ios/strategy.png" alt="Strategy tab with rule toggles and chart key" width="220" />
+  <img src="docs/screenshots/ios/rules.png" alt="Rules tab with reference cards" width="220" />
+</p>
+
+### Web app
+
+<p align="center">
+  <img src="docs/screenshots/web/practice.png" alt="Web practice table with move feedback" width="620" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/web/chart.png" alt="Web strategy chart for hard totals" width="620" />
+</p>
+
 ## Start
 
 ### Native iOS app
